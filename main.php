@@ -2,6 +2,13 @@
 
 ini_set("soap.wsdl_cache_enabled", "0");
 
+/*
+
+  HTTPS Endpoint: https://secure.smslink.ro/sms/gateway/schemas/service.soap.wsdl
+  HTTP Endpoint: http://www.smslink.ro/sms/gateway/schemas/service.soap.wsdl
+
+*/
+
 $Client = new SoapClient("https://secure.smslink.ro/sms/gateway/schemas/service.secure.soap.wsdl");
 
 /*
