@@ -4,8 +4,8 @@ ini_set("soap.wsdl_cache_enabled", "0");
 
 /*
 
-  HTTPS API Endpoint: https://secure.smslink.ro/sms/gateway/schemas/service.soap.wsdl
-  HTTP API Endpoint: http://www.smslink.ro/sms/gateway/schemas/service.soap.wsdl
+  HTTPS SOAP API Endpoint:  https://secure.smslink.ro/sms/gateway/schemas/service.soap.wsdl
+  HTTP SOAP API Endpoint:   http://www.smslink.ro/sms/gateway/schemas/service.soap.wsdl
 
 */
 
